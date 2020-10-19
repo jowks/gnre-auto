@@ -1,5 +1,7 @@
-> ATENÇÃO: Este não é um aplicativo oficial do portal GNRE, e sim uma adaptação para pacote npm, tendo em vista que o mercado não
-> possui soluções gratuítas para este fim. Qualquer ajuda é bem vinda!
+> ATENÇÃO: Este não é um pacote oficial do portal GNRE, e sim uma adaptação para pacote npm, tendo em vista que o mercado não
+> possui soluções gratuitas para este fim. Qualquer ajuda é bem vinda!
+> 
+> OBS: Os links para envio e consulta ainda estão apontado para a base de teste da GNRE, em breve sera alterado para produção
 
 # gnre-auto
 
@@ -102,9 +104,5 @@ Valores marcados com ** devem ser consultados no portal para o preenchimento dev
      pass: "" // Palavra-passe do certificado
   }
 ```
-
-***GnreLoteRecepcao***
-
-***GnreResultadoLote***
 
 > WORK IN PROGRESS
