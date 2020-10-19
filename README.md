@@ -29,6 +29,7 @@ e
   const gnre = require('gnre-auto')  
   
   gnre.GnreLoteRecepcao(dados, emitente, certificado)
+  gnre.GnreResultadoLote(lote, certificado)
 ```
 
 ou
@@ -37,7 +38,7 @@ ou
   { GnreLoteRecepcao, GnreResultadoLote } = require('gnre-auto')
   
   GnreLoteRecepcao(dados, emitente, certificado)
-  GnreResultadoLote(lote, cert)
+  GnreResultadoLote(lote, certificado)
 ```
 
 ### Tipos das variáveis
