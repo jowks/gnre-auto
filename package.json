@@ -1,0 +1,26 @@
+{
+  "name": "gnre-auto",
+  "version": "0.1.0",
+  "description": "Gerador automático da GNRE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jowks/gnre-auto.git"
+  },
+  "keywords": [
+    "gnre"
+  ],
+  "author": "Joaquim Camael Barbosa de Oliveira <joaquim.camael@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jowks/gnre-auto/issues"
+  },
+  "homepage": "https://github.com/jowks/gnre-auto#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "xml-js": "^1.6.11"
+  }
+}
