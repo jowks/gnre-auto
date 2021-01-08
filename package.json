@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/jowks/gnre-auto#readme",
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "xml-js": "^1.6.11"
   }
 }
